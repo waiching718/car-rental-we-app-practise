@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="856a9671-8584-490c-bd7a-297245ebce46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/final-client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/auth.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/insurance.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/order.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/register.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/reviews.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/user.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/actions/vehicles.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/CardOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/CheckIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/CheckOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/CloseOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/ConfirmationPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/EditUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/ModifyOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/MyAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Penalty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/PickCar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Reservation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Review.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/ReviewPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/ShowOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/VehicleDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/VehicleList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/Vehicles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/components/auth.hoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/constants/constant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/Home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/Login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/Logout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/MyAccount.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/Vehicle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/css/VehicleDetail.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/img/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/auth.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/carType.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/extraService.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/insurance.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/order.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/penalties.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/review.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/root.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/us.states.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/user.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-client/src/reducers/vehicle.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/final-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/final-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/final-client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/final-client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/final-client/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/final-client" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gsenhw6aZ4NlSt8jX1xTLOwDSy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856a9671-8584-490c-bd7a-297245ebce46" name="Default Changelist" comment="" />
+      <created>1598907895191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598907895191</updated>
+      <workItem from="1598907898765" duration="71000" />
+      <workItem from="1611932192507" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1621535839231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621535839231" />
+  </component>
+</project>
